@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortServices", "PortServices\PortServices.csproj", "{627F3BCD-DD50-422B-B533-28D0347876DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testPort", "testPort\testPort.csproj", "{999F004C-75C0-4ED2-8B36-92BCBFBEB506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{627F3BCD-DD50-422B-B533-28D0347876DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627F3BCD-DD50-422B-B533-28D0347876DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627F3BCD-DD50-422B-B533-28D0347876DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627F3BCD-DD50-422B-B533-28D0347876DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999F004C-75C0-4ED2-8B36-92BCBFBEB506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999F004C-75C0-4ED2-8B36-92BCBFBEB506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999F004C-75C0-4ED2-8B36-92BCBFBEB506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999F004C-75C0-4ED2-8B36-92BCBFBEB506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

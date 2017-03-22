@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\testPort\bin\Debug\testPort.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\testPort\bin\Debug\testPort.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\testPort\obj\Debug\testPort.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\testPort\obj\Debug\testPort.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\testPort\obj\Debug\testPort.csprojResolveAssemblyReference.cache

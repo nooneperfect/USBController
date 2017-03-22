@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Debug\PortServices.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\bin\Debug\PortServices.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\bin\Debug\PortServices.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Debug\PortServices.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Debug\PortServices.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Debug\PortServices.ProjectInstaller.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Debug\PortServices.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PortServices\PortServices\bin\Debug\PortServices.exe.config

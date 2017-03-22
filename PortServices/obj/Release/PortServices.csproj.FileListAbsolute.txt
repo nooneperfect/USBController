@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\bin\Release\PortServices.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\bin\Release\PortServices.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Release\PortServices.ProjectInstaller.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Release\PortServices.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Release\PortServices.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\obj\Release\PortServices.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PortServices\PortServices\bin\Release\PortServices.exe.config
